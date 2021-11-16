@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NASA APOD Sample</string>
+    <string name="last_available_data_error">We are not connected to the internet, showing you the last image we have.</string>
+    <string name="no_available_data_error_title">No Data Available</string>
+    <string name="no_available_data_error_msg">Please connect to the Internet</string>
+    <string name="api_error_title">Api Response error</string>
+    <string name="api_error_msg">We are facing issues serving you, please try later</string>
+    <string name="alert_ok">OK</string>
+</resources>
