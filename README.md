@@ -10,4 +10,5 @@ Data is fetched from API and saved in DB for offline viewing, data is updated on
 * We can also separate the DB and Rest Api as different modules in the app
 * The Api response has date of different time zone, 
 * APOD images fetching from DB on the basis of local date (DB Query Improvement)
+* Image Caching can be improved although GLide is there 
 * Implimentation of Unit Test case (on Mock Data)
